@@ -1,0 +1,30 @@
+Nomor 1:
+    Servo bekerja dengan menerima sinyal PWM atau pulse with modulation, sinyal yang diterima digunakan untuk menentukan
+    sudut pergerakan servo. Servo memiliki 3 pin yaitu, VCC untuk power, GND untuk Ground, dan Signal untuk pin digital.
+
+Nomor 2:
+    LCD adalah sebuah perangkat yang mengeluarkan output berupa cahaya dengan menggunakan sifat optik daru kristal cair 
+    untuk menampilkan karakter. LCD yang memiliki tambahan modul i2c memiliki 4 pin yaitu SCL dan SDA yang terhubung ke pin digital
+    , VCC ke aliran positif, dan GND ke ground.
+
+Nomor 3:
+    Sistem Irigasi otomatis untuk perkebunan
+    Smart Lamp untuk mematikan dan menyalakan lampu otomais berdasarkan waktu
+    Pintu otomatis menggunakan sensor ultrasonic
+    Smart Doorlock
+    Absen menggunakan fingerprint
+    Microwave
+    Sistem Lampu Lalu Lintas
+    Kartu E-Tol
+
+Nomor 4:
+    Kelompok saya akan membuat sebuah sistem penyiraman otomatis atau melembabkan otomatis menggunakan sensor suhu
+    untuk kumbung jamur.
+    Komponen elektronik yang digunakan ada pembuat kabut, pompa mini, kipas heatsink untuk mengeluarkan panas.
+    Sensornya saat ini hanya menggunakan suhu ada kemungkinan tambahan sensor cahaya dan LCD.
+    Mikrokontroller yang digunakan adalah esp32.
+    Alat ini akan mengeluarkan air atau embun ketika suhu berada di titik tertentu. Data suhu akan diperoleh dari 
+    sensor suhu. Lalu data pemantauan suhu akan dikirim ke HP melalui aplikasi Blynk dan juga ditampilkan di LCD.
+Nomor 5:
+    
+
